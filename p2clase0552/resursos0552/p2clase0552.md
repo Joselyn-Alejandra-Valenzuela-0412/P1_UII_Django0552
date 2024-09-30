@@ -1,0 +1,13 @@
+- crear aplicacion valenzuelaclase_app
+- comando --> python manage.py startapp valenzuelaclase_app
+- ![alt text](image.png)
+- En settings.py de p2clase0552
+- ![alt text](image-1.png)
+- En urls.py de p2clase0552
+- ![alt text](image-2.png)
+- En urls.py de valenzuelaclase_app
+- ![alt text](image-3.png)
+- En views.py en valenzuelaclase_app
+- ![alt text](image-4.png)
+- En urls en valenzuelaclase_app 
+- ![alt text](image-6.png)
